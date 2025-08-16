@@ -14,9 +14,9 @@ I love building projects step by step, learning by doing, and exploring new tech
 ---
 
 ## 📂 Projects  
-🔹 [Hospital Management System](https://github.com/ALLUMAMATHA/Hospital-Management-System)  
-🔹 [YouTube Tool](https://github.com/ALLUMAMATHA/YouTube-Tool)  
-🔹 [Employee Management System](https://github.com/ALLUMAMATHA/Employee-Management-System)  
+🔹 [Hospital Management System](https://github.com/ALLUMAMATHA/Hospital-management-system)  
+🔹 [YouTube Tool](https://github.com/ALLUMAMATHA/YouTube-tool)  
+🔹 [Employee Management System](https://github.com/ALLUMAMATHA/Employee-management-system)  
 
 ---
 
@@ -37,4 +37,4 @@ I love building projects step by step, learning by doing, and exploring new tech
 
 ---
 
-✨ “Code, Learn, and Build step by
+✨ “Code, Learn, and Build step by step — that's how growth happens!” ✨
