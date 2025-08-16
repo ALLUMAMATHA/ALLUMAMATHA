@@ -1,13 +1,13 @@
 # 🌟 Mamatha's GitHub Profile  
 
-👋 Hi, I’m *Mamatha, a passionate **Java Full-Stack Student* who loves building projects with *Java, Swing, MySQL, and React*.  
+👋 Hi, I’m *Mamatha....
 
 ---
 
 ## 🚀 About Me
 - 🎓 Student exploring *Full Stack Development*  
-- 💻 Interested in *Java, React, Databases, and System Design*  
-- 📚 Currently learning *Spring Boot + React*  
+- 💻 Open to work in real time projects*
+- 📚 Currently learning *Spring Boot + React* 
 - 🌱 Passionate about solving problems & building real-world projects  
 
 ---
@@ -51,9 +51,9 @@ A *Java utility* to interact with YouTube (search, filter, view results).
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- 🐙 GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- 📧 Email: allumamatha01@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mamatha-allu)  
+- 🐙 GitHub: [YOUR_USERNAME](https://github.com/ALLUMAMATHA)  
 
 ---
 
