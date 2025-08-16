@@ -1,4 +1,4 @@
-#  Mamatha’s Colorful GitHub Profile — README
+#  Mamatha’s Github Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=3000&pause=600&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mamatha+%F0%9F%91%8B;Student+%7C+Java+%26+React+Learner;Welcome+to+my+Colorful+GitHub!"/>
