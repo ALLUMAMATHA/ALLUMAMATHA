@@ -1,50 +1,60 @@
-# 👩‍💻 Mamatha's Github Profile  
+# 🌟 Mamatha's GitHub Profile  
 
-Hi, I'm  Mamatha Allu......
-
-![Profile views](https://komarev.com/ghpvc/?username=ALLUMAMATHA&color=purple)  
-![Working on](https://img.shields.io/badge/Working%20on-Full%20Stack%20Development-brown)  
-![Open to work](https://img.shields.io/badge/Open%20to-Real%20Time%20Projects-green)  
-![From](https://img.shields.io/badge/From-India-orange)  
+👋 Hi, I’m *Mamatha, a passionate **Java Full-Stack Student* who loves building projects with *Java, Swing, MySQL, and React*.  
 
 ---
 
-## 🌟 About Me  
-- 🎓 Graduate passionate about *Software Development*  
-- 💻 Skilled in *Java, Spring Boot, MySQL, Hibernate*  
-- 🚀 Currently working on *secure APIs and full-stack projects*  
-- 📚 Learning goals: *Data Structures, Docker basics, clean frontend design*  
-- 🤝 Open to *collaboration on real-time projects*  
-- 📫 Reach me on [GitHub](https://github.com/ALLUMAMATHA)  
+## 🚀 About Me
+- 🎓 Student exploring *Full Stack Development*  
+- 💻 Interested in *Java, React, Databases, and System Design*  
+- 📚 Currently learning *Spring Boot + React*  
+- 🌱 Passionate about solving problems & building real-world projects  
 
 ---
 
-## 🛠 Tech Stack  
-![Java](https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-brown?style=for-the-badge&logo=springboot&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-darkgreen?style=for-the-badge&logo=hibernate&logoColor=white)  
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
 
 ---
 
-## 📌 Projects  
-- 🏢 *Employee Management System* – Java Swing + MySQL  
-- 🎖 *Military Asset Management System* – React + Spring Boot + MySQL  
-- 🌱 *Learning Docker & APIs* – Beginner projects in progress  
+## 💻 Projects
+
+### 🔹 [Employee Management System](https://github.com/YOUR_USERNAME/EmployeeManagementSystem)
+A *Java Swing + MySQL* project to manage employee records.  
+✨ Features: Add, Update, View, Delete employees.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+### 🔹 [Hospital Management System](https://github.com/YOUR_USERNAME/HospitalManagementSystem)
+A *Java + JDBC + MySQL* project for managing hospital records.  
+✨ Features: Patient Management, Doctor Management, Billing.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-![Mamatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALLUMAMATHA&show_icons=true&theme=radical)  
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLUMAMATHA&layout=compact&theme=tokyonight)  
+### 🔹 [YouTube Tool](https://github.com/YOUR_USERNAME/YouTubeTool)
+A *Java utility* to interact with YouTube (search, filter, view results).  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
 
 ---
 
-## 📈 Contribution Graph  
-
-[![Mamatha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ALLUMAMATHA&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+## 📊 GitHub Stats
+![Mamatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
 
 ---
-✨ “Code. Build. Learn. Repeat.”
+
+## 📫 Connect with Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
+- 🐙 GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+
+---
+
+✨ “Code, Learn, and Build step by step — that’s how growth happens!” ✨
