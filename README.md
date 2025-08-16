@@ -52,8 +52,8 @@ A *Java utility* to interact with YouTube (search, filter, view results).
 
 ## 📫 Connect with Me
 - 📧 Email: allumamatha01@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mamatha-allu)  
-- 🐙 GitHub: [YOUR_USERNAME](https://github.com/ALLUMAMATHA)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/mamatha-allu)  
+- 🐙 GitHub: (https://github.com/ALLUMAMATHA)  
 
 ---
 
